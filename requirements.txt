@@ -1,7 +1,7 @@
 opencv_python==4.1.0.25
 numpy==1.16.2
 python_osc==1.7.4
-requests==2.18.4
+requests==2.20.0
 pyzbar==0.1.8
 Pillow==6.2.1
 beautifulsoup4==4.8.1
